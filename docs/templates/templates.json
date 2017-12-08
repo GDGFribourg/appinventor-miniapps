@@ -2,7 +2,7 @@
     {
         "name":"Reflex","subtitle":"GDG Fribourg",
         "description":"Un jeu de réflexe pour découvrir la programmation sur Android",
-        "thumbnail":"clock.jpg",
+        "thumbnail":"clock.png",
         "screenshot":"screenshot.png",
         "zip":"Reflex.zip"
     }
