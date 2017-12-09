@@ -1,9 +1,14 @@
 [
     {
+        "name":"ReflexBase","subtitle":"GDG Fribourg",
+        "description":"Modèle pour jeu de réflexe",
+        "thumbnail":"clock.png",
+        "screenshot":"screenshot.png"
+    },
+    {
         "name":"Reflex","subtitle":"GDG Fribourg",
         "description":"Un jeu de réflexe pour découvrir la programmation sur Android",
         "thumbnail":"clock.png",
-        "screenshot":"screenshot.png",
-        "zip":"Reflex.zip"
+        "screenshot":"screenshot.png"
     }
 ]
