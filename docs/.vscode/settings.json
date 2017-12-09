@@ -1,5 +1,0 @@
-{
-    "terminal.integrated.env.osx": {
-        "PATH": "/Users/supcik/.platformio/penv/bin:/Users/supcik/Applications/google-cloud-sdk/bin:/Users/supcik/bin:/usr/local/bin:/usr/local/sbin:/Users/supcik/go/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Library/TeX/texbin:/usr/local/go/bin:/usr/local/MacGPG2/bin:/opt/X11/bin:/Applications/SEGGER/JLink:/Applications/Wireshark.app/Contents/MacOS:/Users/supcik/Applications/gcc-arm-none-eabi/bin"
-    }
-}
